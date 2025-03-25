@@ -5,7 +5,7 @@
   },
   "name": "quantum-computer",
   "description": "A powerful JavaScript quantum computing simulator! Supports multi-qubit operations.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "circ.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
