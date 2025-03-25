@@ -2,5 +2,23 @@
   "type": "module",
   "dependencies": {
     "mathjs": "^14.3.1"
-  }
+  },
+  "name": "quantum-computer",
+  "description": "A powerful JavaScript quantum computing simulator! Supports multi-qubit operations.",
+  "version": "1.0.0",
+  "main": "circ.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VedantGames/Quantum-Computer.git"
+  },
+  "author": "Vedant Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VedantGames/Quantum-Computer/issues"
+  },
+  "homepage": "https://github.com/VedantGames/Quantum-Computer#readme"
 }
